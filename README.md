@@ -3,8 +3,15 @@
 Welcome to the **IPL EDA Project**, where cricket meets data! This project dives deep into IPL (Indian Premier League) statistics, uncovering trends, insights, and performance metrics that cricket fans and data enthusiasts will love. 🎉
 
 ---
+## Download the Visualization
 
+**To gain a better understanding of the visualizations and graphs, download the PDF** from the link below:
+
+[Download Visualization PDF](https://github.com/your-username/project-name/raw/main/visualization.pdf)
+
+---
 ## 📂 **Project Structure**
+
 
 ### Data Collection
 All the data used in this project is collected from **Kaggle**. Please note that the data might have some discrepancies or errors, but overall, the major data points are accurate and match real-life events.
