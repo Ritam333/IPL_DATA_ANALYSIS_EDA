@@ -101,23 +101,18 @@ We used **Plotly Express** and **Plotly Graph Objects** to present the data inte
 
 1. **Line Charts:**  
    - To visualize trends over time (e.g., total runs per season).  
-   - **Library Used:** Plotly Express.
-
+  
 2. **Bar Graphs:**  
    - For comparisons like top players by runs or wickets.  
-   - **Library Used:** Plotly Express.
-
+   
 3. **Pie Charts:**  
    - To show proportions (e.g., dismissal types, boundary contributions).  
-   - **Library Used:** Plotly Express.
+   
 
-4. **Heatmaps:**  
-   - To analyze venue performance and other correlations.  
-   - **Library Used:** Plotly Graph Objects.
+4. **Box Plot:**  
+   - INNINGS WISE RUN ANALYSIS BY TEAM.  
+   
 
-5. **Interactive Dashboards:**  
-   - For deeper exploration of data trends.  
-   - **Library Used:** Plotly Express & Plotly Graph Objects.
 
 ---
 
