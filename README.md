@@ -7,7 +7,7 @@ Welcome to the **IPL EDA Project**, where cricket meets data! This project dives
 
 **:blue_book: **Download the Visualization PDF for better understanding** :page_facing_up:**
 
-[Download Visualization PDF](https://github.com/Ritam333/IPL_DATA_ANALYSIS_EDA/blob/main/VISUALIZATION.pdf)
+[Download Visualization PDF](https://github.com/Ritam333/IPL_DATA_ANALYSIS_EDA/blob/main/EDA_FULL_VIEW.html)
 
 **YOU CAN ALSO DOWNLORD EDA_FULL_VIEW.HTML FOR UNDERSTANDING THE CODE AND THE PLOTS TOGETHER--**
 [Download EDA FULL VIEW PDF](https://github.com/Ritam333/IPL_DATA_ANALYSIS_EDA/blob/main/VISUALIZATION.pdf)
