@@ -27,45 +27,48 @@ The data was visualized using **Plotly Express** and **Plotly Graph Objects** to
 
 In this analysis, we've explored IPL data (2008-2024) to answer the following 24 questions:
 
-1. 🏟️ **Which stadium hosted the most matches (2008-2024)?**
-2. 📈 **What is the total runs scored across seasons?**
-3. 🤵 **Who is the umpire with the most number of umpiring appearances?**
-4. 🎲 **Which team has won the most tosses in IPL seasons?**
-5. 🎯 **Which decision was made after winning the toss?**
-6. 📍 **What is the venue-wise toss-win match-win percentage?**
-7. 🏆 **Which teams have won the most tournaments?**
-8. ⚔️ **What is the total number of matches played and won by each team?**
-9. 🍀 **What is the lucky venue for each team?**
-10. 🤝 **How do teams perform head-to-head against each other?**
-11. 🏅 **Who are the top 5 players with the highest runs?**
-12. **Individual player performance analysis** for Virat Kohli:
-    - **Kohli's Run Analysis**.
-    - **Kohli's Dismissal Analysis**.
-    - **Who takes Kohli's wicket most of the time?**
-    - **Kohli's first and second innings comparison**.
-    - **Kohli's runs against each team**.
-    - **Kohli's favorite venue**.
-    - **Kohli's runs by each season**.
-13. 🎯 **Who is the highest wicket-taker?**
-14. **Individual bowler performance analysis** for Yuzvendra Chahal:
-    - **Dismissal type**.
-    - **Favorite venue**.
-    - **When is Chahal most effective?**
-    - **Chahal’s wickets per season**.
-    - **Total runs vs. total wickets per season**.
-    - **Favorite batsman**.
-15. 🏏 **Innings-wise run analysis by team:**
-    - **First innings**.
-    - **Second innings**.
-16. 📊 **Which team has scored the most 200+ runs as a batting team and bowling team?**
-17. 🥇 **Which team has won a match with the maximum result margin?**
-18. 💯 **Which teams have won or lost with more than 100+ result margins?**
-19. 🏏 **Which batsman has played the most number of balls?**
-20. 🌟 **Who hit the most number of sixes?**
-21. 🏅 **Who hit the most number of fours?**
-22. 👕 **Which wicketkeeper has the most number of stumpings?**
-23. ⚡ **Who has the highest strike rate during death overs?**
-24. 🏆 **Who has won the most 'Man of the Match' awards?**
+- **Which stadium hosted the most matches (2008-2024)?**
+- **What is the total runs scored across seasons**
+- **Who is the umpire with the most number of umpiring appearances?**
+- **Which team has won the most tosses in IPL seasons?**
+- **Which decision was made after winning the toss?**
+- **What is the venue-wise toss-win match-win percentage?**
+- **Which teams have won the most tournaments?**
+- **What is the total number of matches played and won by each team?**
+- **What is the lucky venue for each team?**
+- **How do teams perform head-to-head against each other?**
+- **Who are the top 5 players with the highest runs?**
+- **Individual player performance analysis for Virat Kohli:**
+  - **Kohli's Run Analysis.**
+  - **Kohli's Dismissal Analysis.**
+  - **Who takes Kohli's wicket most of the time?**
+  - **Kohli's first and second innings comparison.**
+  - **Kohli's runs against each team.**
+  - **Kohli's favorite venue.**
+  - **Kohli's runs by each season.**
+- **Who is the highest wicket-taker?**
+- **Individual bowler performance analysis for Yuzvendra Chahal:**
+  - **Dismissal type.**
+  - **Favorite venue.**
+  - **When is Chahal most effective?**
+  - **Chahal’s wickets per season.**
+  - **Total runs vs. total wickets per season.**
+  - **Favorite batsman.**
+- **Innings-wise run analysis by team:**
+  - **First innings.**
+  - **Second innings.**
+- **Which team has scored the most 200+ runs as a batting team and bowling team?**
+- **Which team has won a match with the maximum result margin?**
+- **Which teams have won or lost with more than 100+ result margins?**
+- **Which batsman has played the most number of balls?**
+- **Who hit the most number of sixes?**
+- **Who hit the most number of fours?**
+- **Which wicketkeeper has the most number of stumpings?**
+- **Who has the highest strike rate during death overs?**
+- **Who has won the most 'Man of the Match' awards?**
+
+
+
 
 This project covers a wide range of insights, from match performance to individual player stats, helping us understand trends and patterns in IPL history. 🚀
 
