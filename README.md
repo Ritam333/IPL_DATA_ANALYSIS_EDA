@@ -9,6 +9,8 @@ Welcome to the **IPL EDA Project**, where cricket meets data! This project dives
 
 [Download Visualization PDF](https://github.com/Ritam333/IPL_DATA_ANALYSIS_EDA/blob/main/VISUALIZATION.pdf)
 
+**YOU CAN ALSO DOWNLORD EDA_FULL_VIEW.HTML FOR UNDERSTANDING THE CODE AND THE PLOTS TOGETHER--**
+[Download EDA FULL VIEW PDF](https://github.com/Ritam333/IPL_DATA_ANALYSIS_EDA/blob/main/VISUALIZATION.pdf)
 ---
 ## 📂 **Project Structure**
 
