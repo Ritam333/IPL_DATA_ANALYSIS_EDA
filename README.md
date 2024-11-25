@@ -81,7 +81,7 @@ This project covers a wide range of insights, from match performance to individu
 - **Venue Performance:** Venue-wise toss-win and match-win analysis included.
 
 ### Player Performance
-- **Run Machine:** Virat Kohli leads with record-breaking 973 runs in 2016! 🧢  
+- **Run Machine:** Virat Kohli leads with record-breaking 973 runs in 2016!  
 - **Boundary King:** Chris Gayle rules with 359 sixes.  
 - **Bowler's Delight:** Yuzvendra Chahal tops the charts with 205 wickets.
 
