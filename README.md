@@ -9,7 +9,7 @@ Welcome to the **IPL EDA Project**, where cricket meets data! This project dives
 
 [Download Visualization PDF](https://github.com/Ritam333/IPL_DATA_ANALYSIS_EDA/blob/main/EDA_FULL_VIEW.html)
 
-- **`EDA_FULL_VIEW.HTML`**: An HTML file containing detailed EDA code and plots for an in-depth understanding of the dataset.
+**`EDA_FULL_VIEW.HTML`**: An HTML file containing detailed EDA code and plots for an in-depth understanding**.
 [Download EDA FULL VIEW PDF](https://github.com/Ritam333/IPL_DATA_ANALYSIS_EDA/blob/main/VISUALIZATION.pdf)
 ---
 ## 📂 **Project Structure**
