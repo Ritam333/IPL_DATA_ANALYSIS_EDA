@@ -11,11 +11,12 @@ All the data used in this project is collected from **Kaggle**. Please note that
 
 ### Data Cleaning
 The data was cleaned and processed using the following steps:
-- **Removing duplicate entries**: All duplicate rows and columns were removed.
 - **Handling missing values**: Missing data was filled with appropriate values or removed based on the context.
-- **Data type conversion**: Columns like dates, categorical variables, and numerical columns were properly cast to the required types.
-- **Normalization**: The data was normalized to ensure consistent formatting (e.g., converting text to lowercase, trimming spaces).
-- **Outliers handling**: Any extreme outliers in numeric data were identified and dealt with appropriately.
+- **Correcting team names**: 
+  - "Delhi Daredevils" was changed to "Delhi Capitals".
+  - "Royal Challenger Bangalore" was corrected to "Royal Challengers Bangalore".
+  - "M Chinnaswamy Stadium, Bengaluru" TO "M Chinnaswamy Stadium"
+  - ETC...
 
 ### Visualizations
 The data was visualized using **Plotly Express** and **Plotly Graph Objects** to create interactive and insightful charts and graphs. These visualizations help in understanding the data trends and key metrics.
