@@ -137,4 +137,4 @@ We used **Plotly Express** and **Plotly Graph Objects** to present the data inte
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/IPL-EDA.git
+   git clone https://github.com/Ritam333/IPL_DATA_ANALYSIS_EDA.git
